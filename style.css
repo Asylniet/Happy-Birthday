@@ -201,15 +201,15 @@ header .name.black span {
 }
 
 header .name.black .surname {
-  background: url(img/test-black.png);
+  background: url(/img/test-black.png);
 }
 
 header .name.black .fullname {
-  background: url(img/name-black.png);
+  background: url(/img/name-black.png);
 }
 
 header .name.black .father {
-  background: url(img/fathersname-black.png);
+  background: url(/img/fathersname-black.png);
 }
 
 header .burger {
