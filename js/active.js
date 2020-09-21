@@ -54,7 +54,6 @@ $(document).ready(function () {
     scrollTrigger: {
       trigger: "#section2",
       start: "top 20%",
-      markers: true,
     },
   });
 
