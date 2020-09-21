@@ -171,19 +171,19 @@ header .name .expand.zero {
 }
 
 header .name .surname {
-  background: url(/img/test.png);
+  background: url(img/test.png);
   width: 110px;
   left: -3px;
 }
 
 header .name .fullname {
-  background: url(/img/name.png);
+  background: url(img/name.png);
   bottom: -2px;
   width: 48px;
 }
 
 header .name .father {
-  background: url(/img/fathersname.png);
+  background: url(img/fathersname.png);
   width: 136px;
 }
 
@@ -201,15 +201,15 @@ header .name.black span {
 }
 
 header .name.black .surname {
-  background: url(/img/test-black.png);
+  background: url(img/test-black.png);
 }
 
 header .name.black .fullname {
-  background: url(/img/name-black.png);
+  background: url(img/name-black.png);
 }
 
 header .name.black .father {
-  background: url(/img/fathersname-black.png);
+  background: url(img/fathersname-black.png);
 }
 
 header .burger {
